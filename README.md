@@ -1,2 +1,2 @@
 # Tata-Data-Visualisation
-Created visuals to help executives with effective decision making
+Created visuals to help executives in effective decision making process.
